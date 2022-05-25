@@ -62,7 +62,7 @@ fullName('Илья', 'Зубков');
 
     // Задание 5:
 
-    let number = 21;
+    let number = 19;
     while(number < 67) {
         number += 2;
         console.log(number);
